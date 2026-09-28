@@ -16,6 +16,6 @@ REFERENCES USED:
 none (yuval/reference/ is empty)
 
 STATUS:
-PNG generated 2026-09-28 (gpt-image-2, medium, via Responses API background mode). Hanukkiyah corrected to 4 candles + raised shamash + 4 candles. Edited from 2026-09-28-hanukkah-jerusalem-7-couple-old-city-evening.png: added two children walking beside the couple (per request), then a second edit to correct the hanukkiyot.
+PNG generated 2026-09-28 (gpt-image-2, medium, via Responses API background mode). Hanukkiyah corrected to 4 candles + raised shamash + 4 candles. Edited from 2026-09-28-hanukkah-jerusalem-7-couple-old-city-evening.png: added two children walking beside the couple (per request), then a second edit to correct the hanukkiyot. Then two masked edits (left box, then right box only) replaced both hanukkiyot with straight-bar hanukkiyot: 4 candles + raised shamash + 4 candles.
 
 CREATED: 2026-09-28
