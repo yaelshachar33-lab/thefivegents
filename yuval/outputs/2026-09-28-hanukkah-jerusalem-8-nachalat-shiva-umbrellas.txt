@@ -1,0 +1,21 @@
+PROMPT:
+Wide landscape photo of a narrow pedestrian street in Jerusalem's Nachalat Shiva quarter on a bright winter day, with dozens of colorful open umbrellas suspended overhead in a canopy - red, yellow, blue, pink, green, orange - casting colorful dappled shadows onto the stone paving. Old two-story Jerusalem stone buildings with green wooden shutters, small cafes with outdoor tables, potted plants, a few people strolling. Cheerful, vibrant, joyful mood. Style: photorealistic, atmospheric editorial travel photography. Warm honey-colored Jerusalem limestone, natural winter light, clear crisp air, cinematic but natural color grading, subtle film grain, shallow depth of field. No text, no letters, no readable signage, no logos, no watermarks. No recognizable faces: people seen from behind, in silhouette, at a distance, or softly out of focus. No menorahs or hanukkiyot anywhere in the image.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+Not placed yet - extra atmosphere image, pending selection.
+
+ALT (Hebrew):
+סמטת המטריות הצבעוניות בנחלת שבעה בירושלים ביום חורף בהיר, עם צללים צבעוניים על ריצוף האבן
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG generated 2026-09-28 (gpt-image-2, medium, via Responses API background mode).
+
+CREATED: 2026-09-28

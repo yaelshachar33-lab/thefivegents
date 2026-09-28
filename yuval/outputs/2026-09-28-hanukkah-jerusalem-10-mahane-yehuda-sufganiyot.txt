@@ -1,0 +1,21 @@
+PROMPT:
+Landscape photo inside Jerusalem's Mahane Yehuda market (the shuk) in daytime during Hanukkah. Close foreground: a bakery stall piled high with rows of colorful gourmet sufganiyot (jelly doughnuts) - powdered sugar, pink and chocolate glaze, pistachio, caramel. Background softly blurred: busy market alley under a covered roof with colorful stalls of fruit, spices in mounds, dried fruit, and shoppers in winter coats. Vibrant, abundant, sensory mood. Style: photorealistic, atmospheric editorial travel photography. Warm honey-colored Jerusalem limestone, natural winter light, clear crisp air, cinematic but natural color grading, subtle film grain, shallow depth of field. No text, no letters, no readable signage, no logos, no watermarks. No recognizable faces: people seen from behind, in silhouette, at a distance, or softly out of focus. No menorahs or hanukkiyot anywhere in the image.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+Not placed yet - extra atmosphere image, pending selection.
+
+ALT (Hebrew):
+דוכן סופגניות צבעוניות בשוק מחנה יהודה בחנוכה, ומאחוריו סמטת השוק ההומה
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG generated 2026-09-28 (gpt-image-2, medium, via Responses API background mode).
+
+CREATED: 2026-09-28

@@ -1,0 +1,21 @@
+PROMPT:
+Wide landscape photo of Jerusalem's First Station (HaTachana HaRishona) cultural complex at dusk in winter: a restored old Ottoman-era stone railway station building with arched windows, a wide wooden deck plaza along old railway tracks, strings of warm festive lights overhead, families with children and strollers strolling, a small food stall, deep blue evening sky. Festive, relaxed family atmosphere. Style: photorealistic, atmospheric editorial travel photography. Warm honey-colored Jerusalem limestone, natural winter light, clear crisp air, cinematic but natural color grading, subtle film grain, shallow depth of field. No text, no letters, no readable signage, no logos, no watermarks. No recognizable faces: people seen from behind, in silhouette, at a distance, or softly out of focus. No menorahs or hanukkiyot anywhere in the image.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+Not placed yet - extra atmosphere image, pending selection.
+
+ALT (Hebrew):
+מתחם התחנה הראשונה בירושלים בשעת בין ערביים בחורף, עם אורות חג ומשפחות מטיילות
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG generated 2026-09-28 (gpt-image-2, medium, via Responses API background mode).
+
+CREATED: 2026-09-28

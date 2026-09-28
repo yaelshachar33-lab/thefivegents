@@ -1,0 +1,21 @@
+PROMPT:
+Wide landscape photo of Jerusalem's Ben Yehuda pedestrian mall (midrachov) on a sunny winter afternoon during Hanukkah. A lively wide stone-paved pedestrian street lined with Jerusalem stone buildings, cafes with outdoor seating, a street musician playing guitar, families and couples strolling in winter coats, strings of warm festive lights hanging across the street, a small street cart with sufganiyot. Lively, festive, welcoming mood. Style: photorealistic, atmospheric editorial travel photography. Warm honey-colored Jerusalem limestone, natural winter light, clear crisp air, cinematic but natural color grading, subtle film grain, shallow depth of field. No text, no letters, no readable signage, no logos, no watermarks. No recognizable faces: people seen from behind, in silhouette, at a distance, or softly out of focus. No menorahs or hanukkiyot anywhere in the image.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+Not placed yet - extra atmosphere image, pending selection.
+
+ALT (Hebrew):
+המדרחוב בן יהודה בירושלים ביום חורף שמשי בחנוכה, עם בתי קפה, נגן רחוב ומשפחות מטיילות
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG generated 2026-09-28 (gpt-image-2, medium, via Responses API background mode).
+
+CREATED: 2026-09-28

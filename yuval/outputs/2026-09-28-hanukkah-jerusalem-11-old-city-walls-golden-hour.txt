@@ -1,0 +1,21 @@
+PROMPT:
+Wide landscape photo of the ancient stone walls of Jerusalem's Old City at golden hour in winter, seen from outside across a stone plaza and path. The massive honey-colored limestone walls with crenellations glow warm orange in the low sun, a few cypress and olive trees, a family with children walking along the path in the foreground seen from behind, soft pastel sky. Majestic, peaceful, timeless mood. Style: photorealistic, atmospheric editorial travel photography. Warm honey-colored Jerusalem limestone, natural winter light, clear crisp air, cinematic but natural color grading, subtle film grain, shallow depth of field. No text, no letters, no readable signage, no logos, no watermarks. No recognizable faces: people seen from behind, in silhouette, at a distance, or softly out of focus. No menorahs or hanukkiyot anywhere in the image.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+Not placed yet - extra atmosphere image, pending selection.
+
+ALT (Hebrew):
+חומות העיר העתיקה בירושלים באור הזהוב של שעת אחר הצהריים בחורף, ומשפחה מטיילת לאורכן
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG generated 2026-09-28 (gpt-image-2, medium, via Responses API background mode).
+
+CREATED: 2026-09-28

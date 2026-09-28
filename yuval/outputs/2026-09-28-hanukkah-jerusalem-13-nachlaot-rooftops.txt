@@ -1,0 +1,21 @@
+PROMPT:
+Wide landscape photo looking over the rooftops of an old Jerusalem neighborhood like Nachlaot on a clear winter morning: a dense patchwork of Jerusalem stone houses, red tiled roofs, small domes, black water tanks and solar heaters, winding alleys, bougainvillea and lemon trees in courtyards, distant hills under a soft blue sky with a few clouds. Calm, authentic, lived-in mood. Style: photorealistic, atmospheric editorial travel photography. Warm honey-colored Jerusalem limestone, natural winter light, clear crisp air, cinematic but natural color grading, subtle film grain, shallow depth of field. No text, no letters, no readable signage, no logos, no watermarks. No recognizable faces: people seen from behind, in silhouette, at a distance, or softly out of focus. No menorahs or hanukkiyot anywhere in the image.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+Not placed yet - extra atmosphere image, pending selection.
+
+ALT (Hebrew):
+נוף גגות שכונה ותיקה בירושלים, כמו נחלאות, בבוקר חורף בהיר
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG generated 2026-09-28 (gpt-image-2, medium, via Responses API background mode).
+
+CREATED: 2026-09-28
