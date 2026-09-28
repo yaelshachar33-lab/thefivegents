@@ -1,0 +1,21 @@
+PROMPT:
+Landscape photo of a family (two parents and two children in winter clothes, seen from behind) standing inside a quiet, modern indoor museum or cultural center gallery on a rainy winter day around midday, looking out through a tall floor-to-ceiling window. Outside, rain streaks the glass and falls on wet Jerusalem limestone walls and a stone plaza under a bright, pale grey overcast daytime sky, soft diffused daylight. Inside, a light, airy gallery filled with soft daylight, a bench, a folded umbrella and a stroller nearby, and generic abstract exhibits softly out of focus. Calm, sheltered, cozy mood. No identifiable museum architecture. Style: photorealistic, atmospheric editorial travel photography, shot in daytime. Bright, soft natural winter daylight, clear crisp air, warm honey-colored Jerusalem limestone walls and paving glowing in the sun, gentle blue winter sky. Airy, fresh, light-filled atmosphere, shallow depth of field, cinematic but natural color grading, subtle film grain. No text, no letters, no signage, no logos, no watermarks. No recognizable faces: people seen from behind, in silhouette, at a distance, or softly out of focus. Do not depict specific identifiable landmarks; use a generic, believable Jerusalem setting.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+After the paragraph beginning "כשהגשם לא מפסיק, עדיף לבנות את היום סביב מקום מקורה אחד..." (line 35), in the section "חנוכה עם ילדים בירושלים: איך מתכננים יום משפחתי".
+
+ALT (Hebrew):
+משפחה במוזיאון ביום גשום בירושלים, ומבעד לחלון גדול רואים באור יום גשם יורד על אבן ירושלמית
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG generated 2026-09-28 (gpt-image-2, medium, via Responses API background mode). Daylight variant.
+
+CREATED: 2026-09-28

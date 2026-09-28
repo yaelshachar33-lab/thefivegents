@@ -1,0 +1,21 @@
+PROMPT:
+Landscape photo of a warm family break in a sunny neighborhood cafe with Jerusalem stone walls, early afternoon. Close-up on a wooden table by the window with mugs of hot chocolate and tea with steam rising, a plate of fresh sufganiyot (Hanukkah jelly doughnuts dusted with powdered sugar). No menorah or candelabra in the scene. Hands of parents and children reaching for the doughnuts and holding mugs, a child's mittens and a scarf draped on a chair; faces out of frame or softly blurred. Through the window, a bright sunlit stone street with a few passersby. Homey, relaxed, cheerful atmosphere, daylight pouring across the table. Style: photorealistic, atmospheric editorial travel photography, shot in daytime. Bright, soft natural winter daylight, clear crisp air, warm honey-colored Jerusalem limestone walls and paving glowing in the sun, gentle blue winter sky. Airy, fresh, light-filled atmosphere, shallow depth of field, cinematic but natural color grading, subtle film grain. No text, no letters, no signage, no logos, no watermarks. No recognizable faces: people seen from behind, in silhouette, at a distance, or softly out of focus. Do not depict specific identifiable landmarks; use a generic, believable Jerusalem setting.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+After the paragraph beginning "חנוכה עם ילדים בירושלים עובד הכי טוב כשלא מעמיסים..." (line 37), in the section "חנוכה עם ילדים בירושלים: איך מתכננים יום משפחתי".
+
+ALT (Hebrew):
+הפסקה משפחתית בבית קפה מואר באור יום, עם שוקו, תה וסופגניות על השולחן, בין קירות אבן ירושלמית
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG generated 2026-09-28 (gpt-image-2, medium, via Responses API background mode). Daylight variant.
+
+CREATED: 2026-09-28
