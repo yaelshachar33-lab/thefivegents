@@ -1,0 +1,21 @@
+PROMPT:
+Landscape photo of an indoor Hanukkah craft workshop for children in a bright, airy room with exposed Jerusalem stone walls, late morning. Several young children sit around a wooden worktable making simple hanukkiyot (Hanukkah menorahs with nine candle holders: eight in a row plus one raised shamash) from clay and painting small wooden dreidels (sevivonim); paint cups, brushes, colored clay, and a few finished dreidels scattered on the table. Close focus on small hands working, children's faces turned down, out of frame, or softly blurred. Soft sunlight streams in through a large arched window, with a sunny Jerusalem stone neighborhood visible outside. Unlit candles only, no flames. Playful, cheerful, creative mood. IMPORTANT hanukkiyah rule for every Hanukkah menorah in the image: it must have exactly 8 candles in one straight horizontal row, 4 on the left and 4 on the right, all at the same height, plus exactly one shamash candle standing higher in the exact center between the two groups of 4 (total 9 candles: 4 + raised shamash + 4). Never a seven-branched menorah. Show only ONE clay hanukkiyah on the table (a simple straight clay bar with 4 candle cups on the left, one taller raised cup in the middle, and 4 candle cups on the right - count them: 4, 1, 4). No other menorahs anywhere in the scene. No domes, no mosques, no churches, no famous buildings in the window view. Show it, large enough and close enough to the camera that each candle is clearly countable. Style: photorealistic, atmospheric editorial travel photography, shot in daytime. Bright, soft natural winter daylight, clear crisp air, warm honey-colored Jerusalem limestone walls and paving glowing in the sun, gentle blue winter sky. Airy, fresh, light-filled atmosphere, shallow depth of field, cinematic but natural color grading, subtle film grain. No text, no letters, no signage, no logos, no watermarks. No recognizable faces: people seen from behind, in silhouette, at a distance, or softly out of focus. Do not depict specific identifiable landmarks; use a generic, believable Jerusalem setting.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+After the paragraph beginning "ההתאמה לגיל חשובה יותר מכמות הפעילויות..." (line 33), in the section "חנוכה עם ילדים בירושלים: איך מתכננים יום משפחתי".
+
+ALT (Hebrew):
+ילדים בסדנת יצירה לחנוכה מכינים חנוכיות וסביבונים סביב שולחן עבודה, באור יום רך שנכנס מהחלון
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG generated 2026-09-28 (gpt-image-2, medium, via Responses API background mode). Hanukkiyah corrected to 4 candles + raised shamash + 4 candles. Generated from the prompt below, then edited (image edit) to remove one extra candle so the count is 4 + shamash + 4.
+
+CREATED: 2026-09-28

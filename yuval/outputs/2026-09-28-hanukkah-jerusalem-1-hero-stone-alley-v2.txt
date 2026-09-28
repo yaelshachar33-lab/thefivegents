@@ -1,0 +1,21 @@
+PROMPT:
+Wide landscape hero shot of a narrow, quiet Jerusalem stone alley on a cold winter evening during Hanukkah. Old limestone houses with arched windows and wooden doors line both sides; lit hanukkiyot (Hanukkah menorahs) with small flames glow in several windows, and traditional glass display boxes with burning oil lamps stand beside the doorways at street level. Wet stone paving reflects the warm flames. The sky above is a deep blue-hour blue. The alley leads the eye gently into the distance with a soft vanishing point. No people or only a tiny distant blurred figure. Composition leaves calm negative space in the upper part of the frame. IMPORTANT hanukkiyah rule for every Hanukkah menorah in the image: it must have exactly 8 candles in one straight horizontal row, 4 on the left and 4 on the right, all at the same height, plus exactly one shamash candle standing higher in the exact center between the two groups of 4 (total 9 candles: 4 + raised shamash + 4). Never a seven-branched menorah. Show at most one or two hanukkiyot, large enough and close enough to the camera that each candle is clearly countable. Style: photorealistic, atmospheric editorial travel photography, shot at blue hour. Warm golden candlelight glow contrasted with deep cool blue evening tones, warm honey-colored Jerusalem limestone walls and paving. Soft natural light, shallow depth of field, cinematic but natural color grading, subtle film grain. No text, no letters, no signage, no logos, no watermarks. No recognizable faces: people seen from behind, in silhouette, at a distance, or softly out of focus. Do not depict specific identifiable landmarks; use a generic, believable Jerusalem setting.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+Hero image - directly under the H1 title "חנוכה בירושלים: הדלקות נרות, אטרקציות וחוויות לכל המשפחה", before the opening paragraph that begins "חנוכה בירושלים הוא אחד הזמנים המיוחדים ביותר לבקר בעיר..." (line 9).
+
+ALT (Hebrew):
+סמטת אבן ירושלמית בערב חורפי, עם חנוכיות דולקות בחלונות ובקופסאות זכוכית ליד דלתות הבתים
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG generated 2026-09-28 (gpt-image-2, medium, via Responses API background mode). Hanukkiyah corrected to 4 candles + raised shamash + 4 candles.
+
+CREATED: 2026-09-28
