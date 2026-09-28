@@ -16,6 +16,6 @@ REFERENCES USED:
 none (yuval/reference/ is empty)
 
 STATUS:
-PNG not generated - OPENAI_API_KEY not available in this environment (no .env file, no environment variable).
+PNG generated 2026-09-28 (gpt-image-2, medium, via Responses API background mode).
 
 CREATED: 2026-09-28
