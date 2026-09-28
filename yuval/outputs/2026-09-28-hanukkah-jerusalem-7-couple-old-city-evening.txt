@@ -1,0 +1,21 @@
+PROMPT:
+Landscape photo of a couple in warm winter coats strolling hand in hand through a stone-paved lane in a generic Old City quarter of Jerusalem in the evening, seen from behind at a medium distance. Stone arches overhead, warm limestone walls, lit hanukkiyot in windows and glass boxes by doorways, subtle festive lights. Polished old paving stones glowing with warm reflections. Deep blue evening sky visible above the arches. Romantic, calm, unhurried mood. No recognizable landmarks or specific sites, faces not visible. Style: photorealistic, atmospheric editorial travel photography, shot at blue hour. Warm golden candlelight glow contrasted with deep cool blue evening tones, warm honey-colored Jerusalem limestone walls and paving. Soft natural light, shallow depth of field, cinematic but natural color grading, subtle film grain. No text, no letters, no signage, no logos, no watermarks. No recognizable faces: people seen from behind, in silhouette, at a distance, or softly out of focus. Do not depict specific identifiable landmarks; use a generic, believable Jerusalem setting.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+After the paragraph beginning "ירושלים בחורף מוסיפה לכל זה שכבה נוספת..." (line 23), which mentions couples and adults enjoying an evening stroll, in the section "הדלקות נרות וסיורי חנוכיות: החוויה של חנוכה בירושלים".
+
+ALT (Hebrew):
+זוג משוטט בערב חורפי בסמטת אבן בעיר העתיקה, בין אורות חג וחנוכיות דולקות
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG not generated - OPENAI_API_KEY not available in this environment (no .env file, no environment variable).
+
+CREATED: 2026-09-28

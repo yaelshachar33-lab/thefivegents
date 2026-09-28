@@ -1,0 +1,21 @@
+PROMPT:
+Landscape photo of a warm family break in a cozy neighborhood cafe with Jerusalem stone walls. Close-up on a wooden table with mugs of hot chocolate and tea with steam rising, a plate of fresh sufganiyot (Hanukkah jelly doughnuts dusted with powdered sugar), a small lit hanukkiyah on the windowsill. Hands of parents and children reaching for the doughnuts and holding mugs, a child's mittens and a scarf draped on a chair; faces out of frame or softly blurred. Through the window, the blue evening street. Homey, relaxed, restful atmosphere with warm golden light. Style: photorealistic, atmospheric editorial travel photography, shot at blue hour. Warm golden candlelight glow contrasted with deep cool blue evening tones, warm honey-colored Jerusalem limestone walls and paving. Soft natural light, shallow depth of field, cinematic but natural color grading, subtle film grain. No text, no letters, no signage, no logos, no watermarks. No recognizable faces: people seen from behind, in silhouette, at a distance, or softly out of focus. Do not depict specific identifiable landmarks; use a generic, believable Jerusalem setting.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+After the paragraph beginning "חנוכה עם ילדים בירושלים עובד הכי טוב כשלא מעמיסים..." (line 37), in the section "חנוכה עם ילדים בירושלים: איך מתכננים יום משפחתי".
+
+ALT (Hebrew):
+הפסקה משפחתית בבית קפה חמים עם שוקו, תה וסופגניות על השולחן, בין קירות אבן ירושלמית
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG not generated - OPENAI_API_KEY not available in this environment (no .env file, no environment variable).
+
+CREATED: 2026-09-28

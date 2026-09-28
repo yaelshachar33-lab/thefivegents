@@ -1,0 +1,21 @@
+PROMPT:
+Landscape photo of an indoor Hanukkah craft workshop for children in a cozy room with exposed Jerusalem stone walls. Several young children sit around a wooden worktable making simple hanukkiyot from clay and painting small wooden dreidels (sevivonim); paint cups, brushes, colored clay, and a few finished dreidels scattered on the table. Close focus on small hands working, children's faces turned down, out of frame, or softly blurred. Warm lamp light and a few lit candles in the background; a window showing deep blue evening outside. Playful, warm, creative mood. Style: photorealistic, atmospheric editorial travel photography, shot at blue hour. Warm golden candlelight glow contrasted with deep cool blue evening tones, warm honey-colored Jerusalem limestone walls and paving. Soft natural light, shallow depth of field, cinematic but natural color grading, subtle film grain. No text, no letters, no signage, no logos, no watermarks. No recognizable faces: people seen from behind, in silhouette, at a distance, or softly out of focus. Do not depict specific identifiable landmarks; use a generic, believable Jerusalem setting.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+After the paragraph beginning "ההתאמה לגיל חשובה יותר מכמות הפעילויות..." (line 33), in the section "חנוכה עם ילדים בירושלים: איך מתכננים יום משפחתי".
+
+ALT (Hebrew):
+ילדים בסדנת יצירה לחנוכה מכינים חנוכיות וסביבונים סביב שולחן עבודה, באור חם
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG not generated - OPENAI_API_KEY not available in this environment (no .env file, no environment variable).
+
+CREATED: 2026-09-28
