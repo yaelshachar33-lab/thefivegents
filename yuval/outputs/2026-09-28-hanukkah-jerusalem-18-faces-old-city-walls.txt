@@ -1,0 +1,21 @@
+PROMPT:
+Wide landscape photo of a happy family - parents, a grandmother and two children - walking toward the camera along a stone promenade beside the ancient walls of Jerusalem's Old City at golden hour in winter, smiling and talking, the father carrying a young child on his shoulders. The massive honey-colored walls glow warm orange behind them, cypress and olive trees, soft pastel sky. Style: photorealistic, warm editorial lifestyle travel photography, natural and candid (not posed stock-photo look). Warm honey-colored Jerusalem limestone, natural winter light, cinematic but natural color grading, subtle film grain, shallow depth of field. People face the camera or are seen in three-quarter view, with natural, genuine, relaxed expressions and realistic, well-formed faces, hands and fingers. Diverse Israeli families. No text, no letters, no readable signage, no logos, no watermarks. No menorahs or hanukkiyot anywhere in the image.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+Not placed yet - people-facing-camera variant, pending selection.
+
+ALT (Hebrew):
+משפחה רב-דורית מטיילת לכיוון המצלמה לאורך חומות העיר העתיקה באור הזהוב של אחר הצהריים
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG generated 2026-09-29 (gpt-image-2, medium, via Responses API background mode).
+
+CREATED: 2026-09-29

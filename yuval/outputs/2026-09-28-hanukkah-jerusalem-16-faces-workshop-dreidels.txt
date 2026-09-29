@@ -1,0 +1,21 @@
+PROMPT:
+Landscape photo of a bright Hanukkah craft workshop in a room with Jerusalem stone walls and daylight streaming through a large arched window: three children aged 6-9 sitting at a wooden table facing the camera, proudly holding up the colorful wooden dreidels (sevivonim) they just painted, smiling, paint smudges on their fingers. Paint cups, brushes and clay on the table. Style: photorealistic, warm editorial lifestyle travel photography, natural and candid (not posed stock-photo look). Warm honey-colored Jerusalem limestone, natural winter light, cinematic but natural color grading, subtle film grain, shallow depth of field. People face the camera or are seen in three-quarter view, with natural, genuine, relaxed expressions and realistic, well-formed faces, hands and fingers. Diverse Israeli families. No text, no letters, no readable signage, no logos, no watermarks. No menorahs or hanukkiyot anywhere in the image.
+
+SIZE: 1536x1024
+QUALITY: medium
+MODEL: gpt-image-2
+OUTPUT FORMAT: png
+
+PLACEMENT IN ARTICLE (Output/hanukkah-in-jerusalem.md):
+Not placed yet - people-facing-camera variant, pending selection.
+
+ALT (Hebrew):
+ילדים מחייכים מציגים בגאווה את הסביבונים שצבעו בסדנת יצירה לחנוכה
+
+REFERENCES USED:
+none (yuval/reference/ is empty)
+
+STATUS:
+PNG generated 2026-09-29 (gpt-image-2, medium, via Responses API background mode).
+
+CREATED: 2026-09-29
